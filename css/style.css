@@ -1,0 +1,22 @@
+body {
+  background-color: #C74B50;
+
+}
+
+hr{
+  background-color: #C74B50;
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 1px;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-style: italic;
+}
+
+h3 {
+  color: #66BFBF;
+}
